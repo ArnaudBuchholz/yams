@@ -7,6 +7,7 @@ NOTES / FEATURES :
 ⚀⚁⚂⚃⚄⚅ : dices
 🎲 : roll the dices
 🆕 : new game
+❔ : about
 ➕ : adds a player
 ➖ : removes a player
 🏆 : indicates the winner
