@@ -19,3 +19,4 @@ variable number of players
 
 saves players locally (cookie / local storage)
 save current game locally (cookie / local storage)
+proposes different versions
